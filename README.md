@@ -22,7 +22,7 @@ Formato de las entradas
 ## Infraestructura & Ops
 * [Fedora México](https://www.meetup.com/Fedora-Mexico/) - México - Grupo enfocado en reunir a la comunidad de usuarios de Fedora en México para presentaciones técnicas, conversaciones y buena compañía.
 * [Sysarmy](https://sysarmy.com) - Argentina - Sysarmy es la comunidad de sistemas que nuclea a profesionales del área para favorecer el contacto y el intercambio de conocimiento de manera informal.
-* [Sysarmy México](https://www.meetup.com/sysarmy-mexico/) - México - Sysarmy es la comunidad de sistemas que nuclea a profesionales del área para favorecer el contacto y el intercambio de conocimiento de manera informal.
+* [Sysarmy México](https://www.meetup.com/sysarmy-mexico/) - México - Capítulo en México de Sysarmy, la comunidad de sistemas que nuclea a profesionales del área para favorecer el contacto y el intercambio de conocimiento de manera informal.
 
 ## Minorías en tech
 * [SG 4 Diversity](https://www.facebook.com/groups/SG4Women/) - México - Comunidad operada por Software Guru para impulsar el desarrollo profesional de mujeres y personas LGBTQ+ en roles de tecnología.
