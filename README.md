@@ -18,6 +18,7 @@ Formato de las entradas
 ## Lenguajes & Frameworks
 * [Guadalajara Java User Group](https://gdljug.github.io/) - Guadalajara, México - En Java User Group Guadalajara tendrás oportunidad de conocer otros desarrolladores Java y hablar acerca de código, patrones, innovaciones y compartir tus ideas. Nuestras reuniones son técnicas e incluyen a expertos en la tecnología Java.
 * [Ruby Perú](https://rubyperu.dev/) - Lima, Perú - Somos la comunidad de desarrolladores y usuarios de Ruby en Perú. Ruby es un lenguaje de programación que puedes usar para construir cualquier tipo de software.
+* [RustMX](https://rustmx.github.io/) - Online/México - Comunidad centrada alrededor del lenguaje de programación Rust iniciada en méxico pero abierta a usuaries de habla hispana de todo el mundo. Ven y comparte tus proyectos, dudas y experiencias!
 
 ## Infraestructura & Ops
 * [Fedora México](https://www.meetup.com/Fedora-Mexico/) - México - Grupo enfocado en reunir a la comunidad de usuarios de Fedora en México para presentaciones técnicas, conversaciones y buena compañía.
@@ -30,3 +31,6 @@ Formato de las entradas
 
 ## Estudiantil
 * [Lambda Club Mx](https://lambda-club.com/) - México - Espacio construido para estudiantes, con la finalidad de participar en actividades educativas y brindar oportunidades de crecimiento en el área tecnológica.
+
+## Regional
+* [Xalapacode](https://xalapacode.com/) - Xalapa, Veracruz, México - Es una comunidad de creadores de tecnología y áreas comunes que se reúnen a compartir, debatir, enseñar y aprender en la ciudad de Xalapa realizando diversos eventos y actividades para impulsar el ecosistema veracruzano de desarrollo tecnológico.
