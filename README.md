@@ -1,13 +1,10 @@
 # Awesome Latam Tech Communities
 Lista de comunidades tecnológicas fabulosas en Latinoamérica.
 
-__Instrucciones__
-La lista tiene secciones de acuerdo al tema de especialidad principal. Incluye tu comunidad bajo la sección que consideres más adecuada, o crea una nueva sección si lo consideras apropiado.
+## Este repositorio está deprecado y será eliminado. 
+El directorio ahora existe como un website en [https://comunidades.dev](https://comunidades.dev) que es generado por el repositorio en [https://github.com/softwareguru/comunidades-dev](https://github.com/softwareguru/comunidades-dev) .
 
-Formato de las entradas
-```
-[Nombre de la comunidad](url) - Región de mayor influencia (ciudad y/o país) - Breve descripción (dos o tres líneas). 
-````
+-----
 
 ## Agilidad
 
